@@ -7,7 +7,7 @@ public class LoadingMain
 {
     public static void main(String[] args)
     {
-        JFrame f = new JFrame("Loading");
+        JFrame f = new JFrame("Loading"); // prova commit 1
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setExtendedState(JFrame.MAXIMIZED_BOTH);
         f.setSize(600, 338);
